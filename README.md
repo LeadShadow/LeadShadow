@@ -1,3 +1,3 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Olexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a student GoIT</h3>
+<h3 align="center">I'm a student GoIT uk</h3>
