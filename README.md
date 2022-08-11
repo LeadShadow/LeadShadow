@@ -6,4 +6,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sashasamus123/)
 -----
 
-<h1 align="center">My tools<a href="" target="_blank">Olexandr</a> 
+<h1 align="center">My tools</h1>
