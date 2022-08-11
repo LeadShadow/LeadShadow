@@ -5,6 +5,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-samus-b7a1b8236/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sashasamus123/)
 -----
-
-<h1 align="center">My tools</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadShadow&layout=compact)](https://github.com/LeadShadow/github-readme-stats)
