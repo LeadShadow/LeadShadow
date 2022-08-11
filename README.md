@@ -3,4 +3,4 @@
 <h3 align="center">I'm a student GoIT</h3>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(https://github.com/LeadShadow/hw5web/blob/main/LICENSE)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white(https://www.instagram.com/sashasamus123/)
+![Instagram][(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/sashasamus123/)
